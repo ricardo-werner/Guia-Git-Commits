@@ -2,28 +2,24 @@
 
 ## 📑 Índice
 
-1. [Criar um commit]
-   (#-1-criar-um-commit)
-2. [Alterar mensagem do último commit (sem push)]
-   (#-2-alterar-mensagem-do-último-commit-sem-push)
-3. [Alterar mensagem do último commit (já com push)]
-   (#-3-alterar-mensagem-do-último-commit-já-com-push)
-4. [Alterar mensagem do penúltimo commit]
-   (#-4-alterar-mensagem-do-penúltimo-commit)
-5. [Alterar mensagem de commits mais antigos]
-   (#-5-alterar-mensagem-de-commits-mais-antigos)
-6. [Cancelar último commit (mas manter alterações)]
-   (#-6-cancelar-último-commit-mas-manter-alterações)
-7. [Cancelar último commit (e também remover alterações)]
-   (#-7-cancelar-último-commit-e-também-remover-alterações)
-8. [Ver histórico de commits]
-   (#-8-ver-histórico-de-commits)
-9. [Desfazer alterações de um arquivo específico (não commitado)]
-   (#-9-desfazer-alterações-de-um-arquivo-específico-não-commitado)
-10. [Criar commit vazio (só mensagem, sem alterações)]
-    (#-10-criar-commit-vazio-só-mensagem-sem-alterações)
-11. [Boas práticas]
-    (#-11-boas-práticas)
+1. [Criar um commit](#-1-criar-um-commit)  
+2. [Alterar mensagem do último commit (sem push)](#-2-alterar-mensagem-do-último-commit-sem-push)  
+3. [Alterar mensagem do último commit (já com push)](#-3-alterar-mensagem-do-último-commit-já-com-push)  
+4. [Alterar mensagem do penúltimo commit](#-4-alterar-mensagem-do-penúltimo-commit)  
+5. [Alterar mensagem de commits mais antigos](#-5-alterar-mensagem-de-commits-mais-antigos)  
+6. [Cancelar último commit (mas manter alterações)](#-6-cancelar-último-commit-mas-manter-alterações)  
+7. [Cancelar último commit (e também remover alterações)](#-7-cancelar-último-commit-e-também-remover-alterações)  
+8. [Ver histórico de commits](#-8-ver-histórico-de-commits)  
+9. [Desfazer alterações de um arquivo específico (não commitado)](#-9-desfazer-alterações-de-um-arquivo-específico-não-commitado)  
+10. [Criar commit vazio (só mensagem, sem alterações)](#-10-criar-commit-vazio-só-mensagem-sem-alterações)  
+11. [Boas práticas](#-11-boas-práticas)  
+12. [Ver diferenças antes de commitar](#-12-ver-diferenças-antes-de-commitar)  
+13. [Corrigir último commit (adicionando arquivos esquecidos)](#-13-corrigir-último-commit-adicionando-arquivos-esquecidos)  
+14. [Reverter um commit específico](#-14-reverter-um-commit-específico)  
+15. [Mudar commits de ordem ou juntar commits](#-15-mudar-commits-de-ordem-ou-juntar-commits)  
+16. [Remover último commit mas guardar alterações](#-16-remover-último-commit-mas-guardar-alterações)  
+17. [Guardar alterações temporariamente (stash)](#-17-guardar-alterações-temporariamente-stash)  
+18. [Commit parcial (só parte de um arquivo)](#-18-commit-parcial-só-parte-de-um-arquivo)
 
 ---
 
